@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Band>
+    <NameBand>Los Sergios</NameBand>
+    <Awards>Premio al grupo con mas faltas de asistencia</Awards>
+    <Member BDate="27-11-1997" Plays="Batería1"> 
+        <NameMember>Sergio</NameMember>
+        <Role>Batería</Role>
+        <Joined YEAR="2005"></Joined>
+    <Member BDate="5-10-1997" Plays="Guitarra1">
+        <NameMember>Jorge<NameMember>
+        <Role>Guitarrista<Role>
+        <Joined YEAR="2004"></Joined>
+    <Instrument Id="2"></Instrument>
+</Band>

@@ -1,0 +1,32 @@
+<?xml version=»1.0″ encoding=»UTF-8″ ?>
+<rss version=»2.0″>
+    <channel>
+        <title>ELPAIS.com - Sección Tecnología </title>
+        <link>https://foo.html</link>
+        <description>Las últimas noticias sobre tecnología con EL PAÍS. Internet, redes sociales, móviles, gadgets, software, legislación, seguridad y empresas de tecnología, ocio, entretenimiento y los blog de tecnología</description>
+        <item>
+            <title>Sony empieza a reabrir las plataformas asaltadas</title>
+            <link>https://foo.html</link>
+            <description>Sony ha empezado a restaurar...</description>
+            <author>EL PAÍS<author>
+            <pubDate>07:54</pubDate>
+            <enclosure url=»https://bar.foo»/>
+        <item/>
+        <item>
+            <title>El código detrás del tuit</title>
+            <link>https://foo.html</link>
+            <description>En el reino tuitilandia...</description>
+            <author>RAFAEL CLEMENTE<author>
+            <pubDate>03:47</pubDate>
+            <enclosure url=»https://bar.foo»/>
+        <item/>
+        <item>
+            <title>Google maneja el ruido en la Red para ocultar sus problemas</title>
+            <link>https://foo.html</link>
+            <description>Blogger no es una plataforma de blogs cualquiera...</description>
+            <author>ADRIÁN SEGOVIA<author>
+            <pubDate>03:47</pubDate>
+            <enclosure url=»https://bar.foo»/>
+        <item/>
+    </channel>
+</rss>

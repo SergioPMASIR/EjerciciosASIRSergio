@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!ELEMENT rss (channel)>
+<!ATTLIST rss version NMTOKEN #REQUIRED>
+<!ELEMENT channel (title, link, description, language*, image*, item+)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT image (title, url, link, widht, height)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT widht (#PCDATA)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT item (title, link, description)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
